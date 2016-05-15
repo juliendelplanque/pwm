@@ -1,0 +1,2 @@
+# pwm
+Pharo Workspace Manager
